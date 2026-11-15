@@ -1,5 +1,4 @@
 public class ExemploVariaveis {
-
     static void main() {
 
         // Número Inteiro
